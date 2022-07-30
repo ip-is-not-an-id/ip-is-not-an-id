@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... any beginner level python and web-dev
 - 🌱 I’m currently learning ... the same plus the C++
 - 💞️ I’m looking to collaborate on ... ANYTHING THAT BEGINNERS CAN TRY even Documentations are happliy welcomed.
-- 📫 How to reach me ...I'm currently very serious about programming so...
+- 📫 How to reach me ...I'm currently not very serious about programming so...
 
 <!---
 ip-is-not-an-id/ip-is-not-an-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
