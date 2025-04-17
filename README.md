@@ -13,5 +13,5 @@ Hi World. I'm currently enrolled in a undergrad program in science, so I especia
 I am really curious about anything science related, so feel free to drop a hi or invite me to code with your team ;}
 I am also interested in chess and problem solving puzzles like logical riddles, crosswords, and sudoku.
 I also like probability and statistics, but, I'm still learning, ...
-Looking forward to working with you on interesting projects,.
+Looking forward to working with you on interesting projects,
        Yours Truly.
