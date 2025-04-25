@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ip-is-not-an-id
 - 👀 I’m interested in ... beginner level python and web-dev
 - 🌱 I’m currently learning ... the same plus the C++
-- 💞️ I’m looking to collaborate on ... (ANYTHING THAT BEGINNERS CAN TRY even Documentations are happliy welcomed.)
+- 💞️ I’m looking to collaborate on ... (ANYTHING THAT BEGINNERS CAN TRY even Documentations are happliy welcomed. P.S. I am currently not available )
 - 📫 How to reach me ...I'm currently not very serious about programming so...
 
 <!---
