@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ip-is-not-an-id
-- 💞️ I’m looking to collaborate on ... (ANYTHING THAT BEGINNERS CAN TRY even Documentations are happliy welcomed. P.S. I am currently not available )
-- 📫 How to reach me ...I'm currently not very serious about programming so...
+- Hi, I’m @ip-is-not-an-id
+- I’m looking to collaborate on ... (ANYTHING THAT BEGINNERS CAN TRY even Documentations are happliy welcomed. P.S. I am currently not available )
+- How to reach me ...I'm currently not very serious about programming so...
 
 <!---
 ip-is-not-an-id/ip-is-not-an-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
